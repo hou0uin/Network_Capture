@@ -10,3 +10,10 @@
 ---
 
 参考 `https://github.com/djh-sudo/Network-capture`
+
+### 抓包分析
+![抓包分析](https://github.com/ky0ma/Network_Capture/blob/main/img/%E6%8A%93%E5%8C%85%E5%88%86%E6%9E%90.png)
+
+### 
+![流量统计](https://github.com/ky0ma/Network_Capture/blob/main/img/%E6%B5%81%E9%87%8F%E7%BB%9F%E8%AE%A1.png)
+
